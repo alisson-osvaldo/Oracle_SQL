@@ -1,2 +1,2 @@
 # Oracle_SQL
-Exercícios Oracle SQL
+Exercícios Oracle SQL / PL-SQL
